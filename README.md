@@ -18,38 +18,13 @@ My poerfolio website's homepage is the gateway to access entire website. Here yo
 
 I am a passionate and creative web developer with a strong foundation in HTML, CSS, and JavaScript. I believe in the power of technology to solve real-world problems and enhance user experiences. With a keen eye for design and attention to detail, I strive to create websites that are not only functional but also visually appealing.
 
-## My Work
-
-### Project 1: Responsive Portfolio Site
-A responsive portfolio website built from scratch using HTML5 and CSS3. This project demonstrates my ability to create a visually appealing and mobile-friendly website.
-
-![Project 1 Screenshot](/images/project1.jpg)
-
-**Technologies used:** HTML5, CSS3
-
-**Demo:** [Link to Project 1](https://example.com/project1)
-
-### Project 2: Interactive JavaScript Game
-An interactive game built using JavaScript. This project showcases my proficiency in JavaScript and creating engaging user interactions.
-
-![Project 2 Screenshot](/images/project2.jpg)
-
-**Technologies used:** HTML5, CSS3, JavaScript
-
-**Demo:** [Link to Project 2](https://example.com/project2)
-
-### Project 3: E-commerce Website
-A dynamic e-commerce website developed with HTML, CSS, and JavaScript. This project demonstrates my skills in creating user authentication, product listings, and cart functionality.
-
-![Project 3 Screenshot](/images/project3.jpg)
-
-**Technologies used:** HTML5, CSS3, JavaScript, Node.js
-
-**Demo:** [Link to Project 3](https://example.com/project3)
-
 ## My Blogs
 
 hello
+
+## My Work
+
+In the my work section
 
 ## Contact
 
