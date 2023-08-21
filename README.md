@@ -5,9 +5,9 @@ Welcome to my portfolio website! This website showcases my skills, projects, edu
 ## Table of Contents
 
 - [Homepage](#homepage)
-- [About Me](#About_Me)
-- [My Blogs](#My_Blogs)
-- [My Work](#My_Work)
+- [About Me](#About-Me)
+- [My Blogs](#My-Blogs)
+- [My Work](#My-Work)
 - [Contact](#contact)
 
 ## HomePage
