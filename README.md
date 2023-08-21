@@ -6,8 +6,8 @@ Welcome to my portfolio website! This website showcases my skills, projects, edu
 
 - [Homepage](#homepage)
 - [About Me](#about-me)
-- [My Blogs](#My-Blogs)
-- [My Work](#My-Work)
+- [My Blogs](#my-blogs)
+- [My Work](#my-work)
 - [Contact](#contact)
 
 ## HomePage
