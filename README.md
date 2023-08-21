@@ -6,8 +6,8 @@ Welcome to my portfolio website! This repository showcases my skills, projects, 
 
 - [Homepage](#homepage)
 - [About Me](#about-me)
+  [My Blogs](#my-blogs)
 - [My Work](#my-work)
-- [My Blogs](#my-blogs)
 - [Contact](#contact)
 
 ## HomePage
