@@ -1,26 +1,22 @@
 # Portfolio Website
 
-Welcome to my portfolio website! This website showcases my skills, projects, education, blogs and more as a web developer. Feel free to explore and get to know me better.
+Welcome to my portfolio website! This repository showcases my skills, projects, internships, education, blogs and and contact as a web developer. Feel free to explore and get to know me better.
 
 ## Table of Contents
 
 - [Homepage](#homepage)
 - [About Me](#about-me)
-- [My Blogs](#my-blogs)
 - [My Work](#my-work)
+- [My Blogs](#my-blogs)
 - [Contact](#contact)
 
 ## HomePage
 
-hello
+My poerfolio website's homepage is the gateway to access entire website. Here you can get a dire link to download my resume. You can navigate to all the sections of the website using homepage.
 
 ## About Me
 
 I am a passionate and creative web developer with a strong foundation in HTML, CSS, and JavaScript. I believe in the power of technology to solve real-world problems and enhance user experiences. With a keen eye for design and attention to detail, I strive to create websites that are not only functional but also visually appealing.
-
-## My Blogs
-
-hello
 
 ## My Work
 
@@ -50,6 +46,10 @@ A dynamic e-commerce website developed with HTML, CSS, and JavaScript. This proj
 **Technologies used:** HTML5, CSS3, JavaScript, Node.js
 
 **Demo:** [Link to Project 3](https://example.com/project3)
+
+## My Blogs
+
+hello
 
 ## Contact
 
