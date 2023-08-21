@@ -1,13 +1,17 @@
 # Portfolio Website
 
-Welcome to my portfolio website! This website showcases my projects, skills, and experiences as a web developer. Feel free to explore and get to know me better.
+Welcome to my portfolio website! This website showcases my skills, projects, education, blogs and more as a web developer. Feel free to explore and get to know me better.
 
 ## Table of Contents
 
-- [About Me](#about-me)
-- [Projects](#projects)
-- [Skills](#skills)
+- [Homepage](#homepage)
+- [About Me](#About_Me)
+- [My Blogs](#My_Blogs)
+- [My Work](#My_Work)
 - [Contact](#contact)
+
+## Home Page
+
 
 ## About Me
 
