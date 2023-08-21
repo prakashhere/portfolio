@@ -10,9 +10,9 @@ Welcome to my portfolio website! This website showcases my skills, projects, edu
 - [My Work](#My_Work)
 - [Contact](#contact)
 
-## Home Page
+## HomePage
 
-
+hello
 ## About Me
 
 I am a passionate and creative web developer with a strong foundation in HTML, CSS, and JavaScript. I believe in the power of technology to solve real-world problems and enhance user experiences. With a keen eye for design and attention to detail, I strive to create websites that are not only functional but also visually appealing.
