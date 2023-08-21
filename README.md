@@ -6,13 +6,13 @@ Welcome to my portfolio website! This repository showcases my skills, projects, 
 
 - [Homepage](#homepage)
 - [About Me](#about-me)
-  [My Blogs](#my-blogs)
+- [My Blogs](#my-blogs)
 - [My Work](#my-work)
 - [Contact](#contact)
 
 ## HomePage
 
-My poerfolio website's homepage is the gateway to access entire website. Here you can get a dire link to download my resume. You can navigate to all the sections of the website using homepage.
+My portfolio website's homepage is the gateway to access entire website. Here you can get a dire link to download my resume. You can navigate to all the sections of the website using homepage.
 
 ## About Me
 
