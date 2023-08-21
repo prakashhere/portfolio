@@ -28,11 +28,10 @@ In the my work section I have showcased some of my projects using various techno
 
 ## Contact
 
-Feel free to reach out to me! Whether you want to give some suggestions or just say hello, I'd love to hear from you.
+Feel free to reach out to me! Whether you want to give some suggestions or feedback or just say hello, I'd love to hear from you.
 
 - **Email:** k.prakash10p@gmail.com
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile)
-- **GitHub:** [Your GitHub Profile](https://github.com/yourusername)
+- **LinkedIn:** https://www.linkedin.com/in/prakashkumar23mar/
 
 Thank you for visiting my portfolio website!
 
