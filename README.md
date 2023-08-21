@@ -13,11 +13,16 @@ Welcome to my portfolio website! This website showcases my skills, projects, edu
 ## HomePage
 
 hello
+
 ## About Me
 
 I am a passionate and creative web developer with a strong foundation in HTML, CSS, and JavaScript. I believe in the power of technology to solve real-world problems and enhance user experiences. With a keen eye for design and attention to detail, I strive to create websites that are not only functional but also visually appealing.
 
-## Projects
+## My Blogs
+
+hello
+
+## My Work
 
 ### Project 1: Responsive Portfolio Site
 A responsive portfolio website built from scratch using HTML5 and CSS3. This project demonstrates my ability to create a visually appealing and mobile-friendly website.
@@ -45,15 +50,6 @@ A dynamic e-commerce website developed with HTML, CSS, and JavaScript. This proj
 **Technologies used:** HTML5, CSS3, JavaScript, Node.js
 
 **Demo:** [Link to Project 3](https://example.com/project3)
-
-## Skills
-
-- HTML5: Proficient in creating structured and semantic markup.
-- CSS3: Skilled in designing responsive and visually appealing styles.
-- JavaScript: Experienced in creating interactive and dynamic web elements.
-- Responsive Design: Able to create websites that work seamlessly across various devices and screen sizes.
-- Web Accessibility: Knowledgeable about creating websites that are inclusive and accessible to all users.
-- Version Control (Git): Familiar with using Git for collaborative development and version control.
 
 ## Contact
 
