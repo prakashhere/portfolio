@@ -35,6 +35,5 @@ Feel free to reach out to me! Whether you want to give some suggestions or feedb
 
 Thank you for visiting my portfolio website!
 
-Thanks!
 Prakash Kumar
 ---
