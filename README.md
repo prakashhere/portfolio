@@ -12,7 +12,7 @@ Welcome to my portfolio website! This repository showcases my skills, projects, 
 
 ## HomePage
 
-My portfolio website's homepage is the gateway to access entire website. Here you can get a dire link to download my resume. You can navigate to all the sections of the website using homepage.
+My portfolio website's homepage is the gateway to access entire website. Here you can get a direct link to download my resume. You can navigate to all the sections of the website using the homepage.
 
 ## About Me
 
@@ -20,7 +20,7 @@ I am a passionate and creative web developer with a strong foundation in HTML, C
 
 ## My Blogs
 
-In my free time i like to think about trending topics and then I put my thoughts in the form of blog. In this section you can get access to some of my blogs.
+In my free time I like to think about trending topics and then I put my thought in the form of blogs. In this section you can get access to some of my blogs.
 
 ## My Work
 
@@ -35,4 +35,6 @@ Feel free to reach out to me! Whether you want to give some suggestions or feedb
 
 Thank you for visiting my portfolio website!
 
+Thanks!
+Prakash Kumar
 ---
