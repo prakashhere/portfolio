@@ -1,6 +1,6 @@
 # Portfolio Website
 
-Welcome to my portfolio website! This repository showcases my skills, projects, internships, education, blogs and and contact as a web developer. Feel free to explore and get to know me better. This is the direct link to access my website - https://prakashhere.github.io/portfolio/
+Welcome to my portfolio website! This repository showcases my skills, projects, internships, education, blogs and contact as a web developer. Feel free to explore and get to know me better. This is the direct link to access my website - https://prakashhere.github.io/portfolio/
 
 ## Table of Contents
 
